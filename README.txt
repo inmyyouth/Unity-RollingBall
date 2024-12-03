@@ -24,3 +24,4 @@ Dev Journey:
     I reviewed the code while uploading it just to keep a record. I remember putting a lot of effort into experimenting with Unity navigation, animations, and other elements. I also tried to apply different particle systems for each fruit. Also, this might have been my first time implementing UI in a game. Although the scripts were unnecessarily divided and the hierarchy was poorly organized, I recall this being the first game I created from start to finish. Compared to now, some parts are cleaner, but scalability is still an area that needs more practice. 😂
 
 Gameplay Video:
+    https://youtu.be/DQ5hpx12rDs
